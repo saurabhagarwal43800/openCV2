@@ -11,5 +11,17 @@ This file is created to crop the image for a specified frame in the program.
   
 ## __4.__ crop_livestream.ipynb  
 This file is created to crop the livestream for a specified frame in the program.  
+  
+## __5.__ phone_click.ipynb  
+This file is created to click the image through python code by accessing the phone camera which is connected through a URL.    
+  
+## __6.__ phone_livestream.ipynb  
+This file is created to livestream through python code by accessing the phone camera which is connected through a URL.  
+  
+## __7.__ crop_phone_livestream.ipynb  
+This file is created to crop the livestream to a specified frame through python code by accessing the phone camera which is connected through a URL.  
+
+
+
 
   
