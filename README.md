@@ -21,6 +21,14 @@ This file is created to livestream through python code by accessing the phone ca
 ## __7.__ crop_phone_livestream.ipynb  
 This file is created to crop the livestream to a specified frame through python code by accessing the phone camera which is connected through a URL.  
 
+## __8.__ grayscale_conversion.ipynb  
+This file is created to convert the original image to grayscale image.  
+
+## __9.__ remove_red_color_image.ipynb  
+This file is created so that all the red color present in the image can be removed i.e intensity of Red will be zero.  
+
+
+
 
 
 
