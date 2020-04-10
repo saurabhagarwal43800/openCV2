@@ -27,6 +27,12 @@ This file is created to convert the original image to grayscale image.
 ## __9.__ remove_red_color_image.ipynb  
 This file is created so that all the red color present in the image can be removed i.e intensity of Red will be zero.  
 
+## __10.__ crop_resize.ipynb  
+This file is created to capture an image, crop the face, resize it as you want to place in the position and place in the position.  
+
+## __11.__ face_swap.ipynb  
+This file is created to take two images and select the area to crop and then resize it and then swap the faces of both the images.  
+
 
 
 
