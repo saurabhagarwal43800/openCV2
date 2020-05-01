@@ -43,6 +43,16 @@ This file is created to place the rectangle at a specified frame in the livestre
 This file is created to detect the faces using haarcascade model and place the rectangle where the face goes.  
 __*haarcascade_frontalface_default.xml*__ is the model used in the program to detect face.  
 
+### __15.__ EyeDetection.ipynb  
+This file is created to detect eyes of the human face by using haarcascade model and place the rectangle where the eyes goes.  
+__*haarcascade_frontalface_default.xml*__ is the model used in the program to detect face.  
+__*haarcascade_eye.xml*__ is the model used in the program to detect face.  
+
+### __16.__ sendMail after FaceDetection.py  
+This file is created to detect the faces and count the faces in the livestream and if there is one or more faces than it will send the mail to the Receiver mentioning *Number of faces detected* else print the message *No face detected*.  
+__*haarcascade_frontalface_default.xml*__ is the model used in the program to detect face.    
+__*haarcascade_eye.xml*__ is the model used in the program to detect face.  
+
 
 
 
